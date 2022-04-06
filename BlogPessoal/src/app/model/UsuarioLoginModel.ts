@@ -1,4 +1,4 @@
-export class UserLogin {
+export class UsuarioLoginModel {
     public id: number
     public nome: string
     public usuario: string
